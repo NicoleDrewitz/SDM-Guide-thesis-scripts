@@ -60,7 +60,7 @@ On macOS, the Terminal command to keep the computer on for 2 hours while a long 
 >     3.  *proportion of highly suitable habitat area*
 >     4.  *change in mean suitability*
 >     5.  *change of area*
->     6.  *summary tables*
+>     6.  *summary tables and dot plots*
 
 renv lock preserves software version compatability
 
