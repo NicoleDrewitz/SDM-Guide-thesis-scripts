@@ -18,9 +18,9 @@ Further info found in the associated **thesis**: Skemman.is
 
 Data Sources: See SDM guide, or thesis
 
-Attribution: CC-BY, some of the linked data used to create models are CC-BY-NC
+Attribution: CC-BY preferred, some of the data used to create models are CC-BY-NC
 
-Available from GitHub ()
+Available from GitHub: <https://github.com/NicoleDrewitz/SDM-Guide-thesis-scripts/>
 
 ## R Projects
 On macOS, the Terminal command to keep the computer on for 2 hours while a long script is running is `caffeinate -i -t 3600`
@@ -58,5 +58,7 @@ On macOS, the Terminal command to keep the computer on for 2 hours while a long 
 >     4.  *change in mean suitability*
 >     5.  *change of area*
 >     6.  *summary tables*
+
+renv lock preserves software version compatability
 
 *Last updated: 2026-05*
