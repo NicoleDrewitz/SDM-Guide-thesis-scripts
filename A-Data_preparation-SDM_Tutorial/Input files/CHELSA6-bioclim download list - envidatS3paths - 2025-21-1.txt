@@ -1,0 +1,272 @@
+# bio01 (Annual Mean Temperature):
+
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio01/1981-2010/CHELSA_bio01_1981-2010_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio01/2071-2100/GFDL-ESM4/ssp126/CHELSA_gfdl-esm4_ssp126_bio01_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio01/2071-2100/GFDL-ESM4/ssp370/CHELSA_gfdl-esm4_ssp370_bio01_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio01/2071-2100/GFDL-ESM4/ssp585/CHELSA_gfdl-esm4_ssp585_bio01_2071-2100_V.2.1.tif
+
+# bio02 (Mean Diurnal Range):
+
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio02/1981-2010/CHELSA_bio02_1981-2010_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio02/2071-2100/GFDL-ESM4/ssp126/CHELSA_gfdl-esm4_ssp126_bio02_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio02/2071-2100/GFDL-ESM4/ssp370/CHELSA_gfdl-esm4_ssp370_bio02_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio02/2071-2100/GFDL-ESM4/ssp585/CHELSA_gfdl-esm4_ssp585_bio02_2071-2100_V.2.1.tif
+
+# bio03 (Isothermality):
+
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio03/1981-2010/CHELSA_bio03_1981-2010_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio03/2071-2100/GFDL-ESM4/ssp126/CHELSA_gfdl-esm4_ssp126_bio03_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio03/2071-2100/GFDL-ESM4/ssp370/CHELSA_gfdl-esm4_ssp370_bio03_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio03/2071-2100/GFDL-ESM4/ssp585/CHELSA_gfdl-esm4_ssp585_bio03_2071-2100_V.2.1.tif
+
+# bio04 (Temperature Seasonality):
+
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio04/1981-2010/CHELSA_bio04_1981-2010_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio04/2071-2100/GFDL-ESM4/ssp126/CHELSA_gfdl-esm4_ssp126_bio04_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio04/2071-2100/GFDL-ESM4/ssp370/CHELSA_gfdl-esm4_ssp370_bio04_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio04/2071-2100/GFDL-ESM4/ssp585/CHELSA_gfdl-esm4_ssp585_bio04_2071-2100_V.2.1.tif
+
+# bio05 (Max Temperature of Warmest Month):
+
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio05/1981-2010/CHELSA_bio05_1981-2010_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio05/2071-2100/GFDL-ESM4/ssp126/CHELSA_gfdl-esm4_ssp126_bio05_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio05/2071-2100/GFDL-ESM4/ssp370/CHELSA_gfdl-esm4_ssp370_bio05_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio05/2071-2100/GFDL-ESM4/ssp585/CHELSA_gfdl-esm4_ssp585_bio05_2071-2100_V.2.1.tif
+
+# bio06 (Min Temperature of Coldest Month):
+
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio06/1981-2010/CHELSA_bio06_1981-2010_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio06/2071-2100/GFDL-ESM4/ssp126/CHELSA_gfdl-esm4_ssp126_bio06_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio06/2071-2100/GFDL-ESM4/ssp370/CHELSA_gfdl-esm4_ssp370_bio06_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio06/2071-2100/GFDL-ESM4/ssp585/CHELSA_gfdl-esm4_ssp585_bio06_2071-2100_V.2.1.tif
+
+# bio07 (Annual Temperature Range):
+
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio07/1981-2010/CHELSA_bio07_1981-2010_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio07/2071-2100/GFDL-ESM4/ssp126/CHELSA_gfdl-esm4_ssp126_bio07_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio07/2071-2100/GFDL-ESM4/ssp370/CHELSA_gfdl-esm4_ssp370_bio07_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio07/2071-2100/GFDL-ESM4/ssp585/CHELSA_gfdl-esm4_ssp585_bio07_2071-2100_V.2.1.tif
+
+# bio08 (Mean Temperature of Wettest Quarter):
+
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio08/1981-2010/CHELSA_bio08_1981-2010_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio08/2071-2100/GFDL-ESM4/ssp126/CHELSA_gfdl-esm4_ssp126_bio08_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio08/2071-2100/GFDL-ESM4/ssp370/CHELSA_gfdl-esm4_ssp370_bio08_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio08/2071-2100/GFDL-ESM4/ssp585/CHELSA_gfdl-esm4_ssp585_bio08_2071-2100_V.2.1.tif
+
+# bio09 (Mean Temperature of Driest Quarter):
+
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio09/1981-2010/CHELSA_bio09_1981-2010_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio09/2071-2100/GFDL-ESM4/ssp126/CHELSA_gfdl-esm4_ssp126_bio09_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio09/2071-2100/GFDL-ESM4/ssp370/CHELSA_gfdl-esm4_ssp370_bio09_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio09/2071-2100/GFDL-ESM4/ssp585/CHELSA_gfdl-esm4_ssp585_bio09_2071-2100_V.2.1.tif
+
+# bio10 (Mean Temperature of Warmest Quarter):
+
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio10/1981-2010/CHELSA_bio10_1981-2010_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio10/2071-2100/GFDL-ESM4/ssp126/CHELSA_gfdl-esm4_ssp126_bio10_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio10/2071-2100/GFDL-ESM4/ssp370/CHELSA_gfdl-esm4_ssp370_bio10_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio10/2071-2100/GFDL-ESM4/ssp585/CHELSA_gfdl-esm4_ssp585_bio10_2071-2100_V.2.1.tif
+
+# bio11 (Mean Temperature of Coldest Quarter):
+
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio11/1981-2010/CHELSA_bio11_1981-2010_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio11/2071-2100/GFDL-ESM4/ssp126/CHELSA_gfdl-esm4_ssp126_bio11_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio11/2071-2100/GFDL-ESM4/ssp370/CHELSA_gfdl-esm4_ssp370_bio11_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio11/2071-2100/GFDL-ESM4/ssp585/CHELSA_gfdl-esm4_ssp585_bio11_2071-2100_V.2.1.tif
+
+# bio12 (Annual Precipitation):
+
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio12/1981-2010/CHELSA_bio12_1981-2010_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio12/2071-2100/GFDL-ESM4/ssp126/CHELSA_gfdl-esm4_ssp126_bio12_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio12/2071-2100/GFDL-ESM4/ssp370/CHELSA_gfdl-esm4_ssp370_bio12_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio12/2071-2100/GFDL-ESM4/ssp585/CHELSA_gfdl-esm4_ssp585_bio12_2071-2100_V.2.1.tif
+
+# bio13 (Precipitation of Wettest Month):
+
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio13/1981-2010/CHELSA_bio13_1981-2010_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio13/2071-2100/GFDL-ESM4/ssp126/CHELSA_gfdl-esm4_ssp126_bio13_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio13/2071-2100/GFDL-ESM4/ssp370/CHELSA_gfdl-esm4_ssp370_bio13_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio13/2071-2100/GFDL-ESM4/ssp585/CHELSA_gfdl-esm4_ssp585_bio13_2071-2100_V.2.1.tif
+
+# bio14 (Precipitation of Driest Month):
+
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio14/1981-2010/CHELSA_bio14_1981-2010_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio14/2071-2100/GFDL-ESM4/ssp126/CHELSA_gfdl-esm4_ssp126_bio14_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio14/2071-2100/GFDL-ESM4/ssp370/CHELSA_gfdl-esm4_ssp370_bio14_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio14/2071-2100/GFDL-ESM4/ssp585/CHELSA_gfdl-esm4_ssp585_bio14_2071-2100_V.2.1.tif
+
+# bio15 (Precipitation Seasonality):
+
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio15/1981-2010/CHELSA_bio15_1981-2010_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio15/2071-2100/GFDL-ESM4/ssp126/CHELSA_gfdl-esm4_ssp126_bio15_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio15/2071-2100/GFDL-ESM4/ssp370/CHELSA_gfdl-esm4_ssp370_bio15_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio15/2071-2100/GFDL-ESM4/ssp585/CHELSA_gfdl-esm4_ssp585_bio15_2071-2100_V.2.1.tif
+
+# bio16 (Precipitation of Wettest Quarter):
+
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio16/1981-2010/CHELSA_bio16_1981-2010_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio16/2071-2100/GFDL-ESM4/ssp126/CHELSA_gfdl-esm4_ssp126_bio16_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio16/2071-2100/GFDL-ESM4/ssp370/CHELSA_gfdl-esm4_ssp370_bio16_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio16/2071-2100/GFDL-ESM4/ssp585/CHELSA_gfdl-esm4_ssp585_bio16_2071-2100_V.2.1.tif
+
+# bio17 (Precipitation of Driest Quarter):
+
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio17/1981-2010/CHELSA_bio17_1981-2010_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio17/2071-2100/GFDL-ESM4/ssp126/CHELSA_gfdl-esm4_ssp126_bio17_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio17/2071-2100/GFDL-ESM4/ssp370/CHELSA_gfdl-esm4_ssp370_bio17_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio17/2071-2100/GFDL-ESM4/ssp585/CHELSA_gfdl-esm4_ssp585_bio17_2071-2100_V.2.1.tif
+
+# bio18 (Precipitation of Warmest Quarter):
+
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio18/1981-2010/CHELSA_bio18_1981-2010_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio18/2071-2100/GFDL-ESM4/ssp126/CHELSA_gfdl-esm4_ssp126_bio18_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio18/2071-2100/GFDL-ESM4/ssp370/CHELSA_gfdl-esm4_ssp370_bio18_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio18/2071-2100/GFDL-ESM4/ssp585/CHELSA_gfdl-esm4_ssp585_bio18_2071-2100_V.2.1.tif
+
+# bio19 (Precipitation of Coldest Quarter):
+
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio19/1981-2010/CHELSA_bio19_1981-2010_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio19/2071-2100/GFDL-ESM4/ssp126/CHELSA_gfdl-esm4_ssp126_bio19_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio19/2071-2100/GFDL-ESM4/ssp370/CHELSA_gfdl-esm4_ssp370_bio19_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/bio19/2071-2100/GFDL-ESM4/ssp585/CHELSA_gfdl-esm4_ssp585_bio19_2071-2100_V.2.1.tif
+
+# fcf (Frost Change Frequency):
+
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/fcf/1981-2010/CHELSA_fcf_1981-2010_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/fcf/2071-2100/GFDL-ESM4/ssp126/CHELSA_gfdl-esm4_ssp126_fcf_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/fcf/2071-2100/GFDL-ESM4/ssp370/CHELSA_gfdl-esm4_ssp370_fcf_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/fcf/2071-2100/GFDL-ESM4/ssp585/CHELSA_gfdl-esm4_ssp585_fcf_2071-2100_V.2.1.tif
+
+# fgd (First Day of Growing Season):
+
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/fgd/1981-2010/CHELSA_fgd_1981-2010_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/fgd/2071-2100/GFDL-ESM4/ssp126/CHELSA_gfdl-esm4_ssp126_fgd_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/fgd/2071-2100/GFDL-ESM4/ssp370/CHELSA_gfdl-esm4_ssp370_fgd_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/fgd/2071-2100/GFDL-ESM4/ssp585/CHELSA_gfdl-esm4_ssp585_fgd_2071-2100_V.2.1.tif
+
+# gdd0 (Growing Degree Days above 0°C):
+
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/gdd0/1981-2010/CHELSA_gdd0_1981-2010_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/gdd0/2071-2100/GFDL-ESM4/ssp126/CHELSA_gfdl-esm4_ssp126_gdd0_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/gdd0/2071-2100/GFDL-ESM4/ssp370/CHELSA_gfdl-esm4_ssp370_gdd0_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/gdd0/2071-2100/GFDL-ESM4/ssp585/CHELSA_gfdl-esm4_ssp585_gdd0_2071-2100_V.2.1.tif
+
+# gdd10 (Growing Degree Days above 10°C):
+
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/gdd10/1981-2010/CHELSA_gdd10_1981-2010_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/gdd10/2071-2100/GFDL-ESM4/ssp126/CHELSA_gfdl-esm4_ssp126_gdd10_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/gdd10/2071-2100/GFDL-ESM4/ssp370/CHELSA_gfdl-esm4_ssp370_gdd10_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/gdd10/2071-2100/GFDL-ESM4/ssp585/CHELSA_gfdl-esm4_ssp585_gdd10_2071-2100_V.2.1.tif
+
+# gdd5 (Growing Degree Days above 5°C):
+
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/gdd5/1981-2010/CHELSA_gdd5_1981-2010_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/gdd5/2071-2100/GFDL-ESM4/ssp126/CHELSA_gfdl-esm4_ssp126_gdd5_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/gdd5/2071-2100/GFDL-ESM4/ssp370/CHELSA_gfdl-esm4_ssp370_gdd5_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/gdd5/2071-2100/GFDL-ESM4/ssp585/CHELSA_gfdl-esm4_ssp585_gdd5_2071-2100_V.2.1.tif
+
+# gddlgd0 (Last growing degree day above 0)
+
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/gddlgd0/1981-2010/CHELSA_gddlgd0_1981-2010_V.2.1.tif 
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/gddlgd0/2071-2100/GFDL-ESM4/ssp126/CHELSA_gfdl-esm4_ssp126_gddlgd0_2071-2100_V.2.1.tif 
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/gddlgd0/2071-2100/GFDL-ESM4/ssp370/CHELSA_gfdl-esm4_ssp370_gddlgd0_2071-2100_V.2.1.tif 
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/gddlgd0/2071-2100/GFDL-ESM4/ssp585/CHELSA_gfdl-esm4_ssp585_gddlgd0_2071-2100_V.2.1.tif 
+
+# gddlgd10 (Last growing degree day above 10
+
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/gddlgd10/1981-2010/CHELSA_gddlgd10_1981-2010_V.2.1.tif 
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/gddlgd10/2071-2100/GFDL-ESM4/ssp126/CHELSA_gfdl-esm4_ssp126_gddlgd10_2071-2100_V.2.1.tif 
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/gddlgd10/2071-2100/GFDL-ESM4/ssp370/CHELSA_gfdl-esm4_ssp370_gddlgd10_2071-2100_V.2.1.tif 
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/gddlgd10/2071-2100/GFDL-ESM4/ssp585/CHELSA_gfdl-esm4_ssp585_gddlgd10_2071-2100_V.2.1.tif 
+
+# gdgfgd10 (First Growing Degree Day above 10°C):
+
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/gdgfgd10/1981-2010/CHELSA_gdgfgd10_1981-2010_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/gdgfgd10/2071-2100/GFDL-ESM4/ssp126/CHELSA_gfdl-esm4_ssp126_gdgfgd10_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/gdgfgd10/2071-2100/GFDL-ESM4/ssp370/CHELSA_gfdl-esm4_ssp370_gdgfgd10_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/gdgfgd10/2071-2100/GFDL-ESM4/ssp585/CHELSA_gfdl-esm4_ssp585_gdgfgd10_2071-2100_V.2.1.tif
+
+# gdgfgd5 (First Growing Degree Day above 5 °C):
+
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/gdgfgd5/1981-2010/CHELSA_gdgfgd5_1981-2010_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/gdgfgd5/2071-2100/GFDL-ESM4/ssp126/CHELSA_gfdl-esm4_ssp126_gdgfgd5_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/gdgfgd5/2071-2100/GFDL-ESM4/ssp370/CHELSA_gfdl-esm4_ssp370_gdgfgd5_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/gdgfgd5/2071-2100/GFDL-ESM4/ssp585/CHELSA_gfdl-esm4_ssp585_gdgfgd5_2071-2100_V.2.1.tif
+
+# gsl (Growing Season Length):
+
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/gsl/1981-2010/CHELSA_gsl_1981-2010_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/gsl/2071-2100/GFDL-ESM4/ssp126/CHELSA_gfdl-esm4_ssp126_gsl_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/gsl/2071-2100/GFDL-ESM4/ssp370/CHELSA_gfdl-esm4_ssp370_gsl_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/gsl/2071-2100/GFDL-ESM4/ssp585/CHELSA_gfdl-esm4_ssp585_gsl_2071-2100_V.2.1.tif
+
+# gsp (Accumulated Precipitation on Growing Season Days):
+
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/gsp/1981-2010/CHELSA_gsp_1981-2010_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/gsp/2071-2100/GFDL-ESM4/ssp126/CHELSA_gfdl-esm4_ssp126_gsp_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/gsp/2071-2100/GFDL-ESM4/ssp370/CHELSA_gfdl-esm4_ssp370_gsp_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/gsp/2071-2100/GFDL-ESM4/ssp585/CHELSA_gfdl-esm4_ssp585_gsp_2071-2100_V.2.1.tif
+
+# gst (Mean Temperature of Growing Season Days):
+
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/gst/1981-2010/CHELSA_gst_1981-2010_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/gst/2071-2100/GFDL-ESM4/ssp126/CHELSA_gfdl-esm4_ssp126_gst_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/gst/2071-2100/GFDL-ESM4/ssp370/CHELSA_gfdl-esm4_ssp370_gst_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/gst/2071-2100/GFDL-ESM4/ssp585/CHELSA_gfdl-esm4_ssp585_gst_2071-2100_V.2.1.tif
+
+# kg0 (Köppen-Geiger Climate Classification)
+
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/kg0/1981-2010/CHELSA_kg0_1981-2010_V.2.1.tif 
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/kg0/2071-2100/GFDL-ESM4/ssp126/CHELSA_gfdl-esm4_ssp126_kg0_2071-2100_V.2.1.tif 
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/kg0/2071-2100/GFDL-ESM4/ssp370/CHELSA_gfdl-esm4_ssp370_kg0_2071-2100_V.2.1.tif 
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/kg0/2071-2100/GFDL-ESM4/ssp585/CHELSA_gfdl-esm4_ssp585_kg0_2071-2100_V.2.1.tif 
+
+# lgd (Last Day of Growing Season):
+
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/lgd/1981-2010/CHELSA_lgd_1981-2010_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/lgd/2071-2100/GFDL-ESM4/ssp126/CHELSA_gfdl-esm4_ssp126_lgd_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/lgd/2071-2100/GFDL-ESM4/ssp370/CHELSA_gfdl-esm4_ssp370_lgd_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/lgd/2071-2100/GFDL-ESM4/ssp585/CHELSA_gfdl-esm4_ssp585_lgd_2071-2100_V.2.1.tif
+
+# ngd0 (Number of Growing Degree Days above 0 °C):
+
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/ngd0/1981-2010/CHELSA_ngd0_1981-2010_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/ngd0/2071-2100/GFDL-ESM4/ssp126/CHELSA_gfdl-esm4_ssp126_ngd0_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/ngd0/2071-2100/GFDL-ESM4/ssp370/CHELSA_gfdl-esm4_ssp370_ngd0_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/ngd0/2071-2100/GFDL-ESM4/ssp585/CHELSA_gfdl-esm4_ssp585_ngd0_2071-2100_V.2.1.tif
+
+# ngd5 (Number of Growing Degree Days above 5 °C):
+
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/ngd5/1981-2010/CHELSA_ngd5_1981-2010_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/ngd5/2071-2100/GFDL-ESM4/ssp126/CHELSA_gfdl-esm4_ssp126_ngd5_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/ngd5/2071-2100/GFDL-ESM4/ssp370/CHELSA_gfdl-esm4_ssp370_ngd5_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/ngd5/2071-2100/GFDL-ESM4/ssp585/CHELSA_gfdl-esm4_ssp585_ngd5_2071-2100_V.2.1.tif
+
+# ngd10 (Number of Growing Degree Days above 10 °C):
+
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/ngd10/1981-2010/CHELSA_ngd10_1981-2010_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/ngd10/2071-2100/GFDL-ESM4/ssp126/CHELSA_gfdl-esm4_ssp126_ngd10_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/ngd10/2071-2100/GFDL-ESM4/ssp370/CHELSA_gfdl-esm4_ssp370_ngd10_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/ngd10/2071-2100/GFDL-ESM4/ssp585/CHELSA_gfdl-esm4_ssp585_ngd10_2071-2100_V.2.1.tif
+
+# npp (Net Primary Production on Land as Carbon Mass Flux):
+
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/npp/1981-2010/CHELSA_npp_1981-2010_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/npp/2071-2100/GFDL-ESM4/ssp126/CHELSA_gfdl-esm4_ssp126_npp_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/npp/2071-2100/GFDL-ESM4/ssp370/CHELSA_gfdl-esm4_ssp370_npp_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/npp/2071-2100/GFDL-ESM4/ssp585/CHELSA_gfdl-esm4_ssp585_npp_2071-2100_V.2.1.tif
+
+# scd (Snow Cover Days):
+
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/scd/1981-2010/CHELSA_scd_1981-2010_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/scd/2071-2100/GFDL-ESM4/ssp126/CHELSA_gfdl-esm4_ssp126_scd_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/scd/2071-2100/GFDL-ESM4/ssp370/CHELSA_gfdl-esm4_ssp370_scd_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/scd/2071-2100/GFDL-ESM4/ssp585/CHELSA_gfdl-esm4_ssp585_scd_2071-2100_V.2.1.tif
+
+# swe (Snow Water Equivalent):
+
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/swe/1981-2010/CHELSA_swe_1981-2010_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/swe/2071-2100/GFDL-ESM4/ssp126/CHELSA_gfdl-esm4_ssp126_swe_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/swe/2071-2100/GFDL-ESM4/ssp370/CHELSA_gfdl-esm4_ssp370_swe_2071-2100_V.2.1.tif
+https://os.unil.cloud.switch.ch/chelsa02/chelsa/global/bioclim/swe/2071-2100/GFDL-ESM4/ssp585/CHELSA_gfdl-esm4_ssp585_swe_2071-2100_V.2.1.tif
